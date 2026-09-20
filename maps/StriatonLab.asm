@@ -58,7 +58,7 @@ StriatonLabFennelScript:
 	para "It's also said"
 	line "that some #mon"
 	
-	para "Can use it to"
+	para "can use it to"
 	line "evolve!"
 	
 	para "I'm sure you'll"
