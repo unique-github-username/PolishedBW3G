@@ -214,7 +214,7 @@ MistraltonAirportPokefanFText:
 MistraltonAirportOfficerText:
 	text "We mostly ship out"
 	line "cargo planes, but"
-	cont "You can take a"
+	cont "you can take a"
 	
 	para "passenger flight"
 	line "if you have a"
